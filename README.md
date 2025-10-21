@@ -26,22 +26,4 @@ npm run build
 npm run preview
 ```
 
-## Repository (hvis nytt prosjekt)
 
-```bash
-git init
-git add .
-git commit -m "init"
-git remote add origin git@github.com:<bruker>/<repo>.git
-git push -u origin main
-```
-
-## Skjermbilde (valgfritt)
-
-Legg `docs/screenshot.png` i repoet og referer slik:
-
-```markdown
-![Prototype](docs/screenshot.png)
-```
-
-Lisens: valgfritt (MIT anbefales for skoleprosjekter).
