@@ -1,11 +1,47 @@
+# Tusenfryd Kart – MMI Prototype
 
-  # Amusement Park Map Prototype
+Kort README for å starte prototypen lokalt.
 
-  This is a code bundle for Amusement Park Map Prototype. The original project is available at https://www.figma.com/design/pzlZh5IkMc5zBTnoLkq69w/Amusement-Park-Map-Prototype.
+## Om
 
-  ## Running the code
+Laget i emnet **MMI** med mål om å lære rask prototyping (UI/brukerflyt). Koden er en demo – ikke produksjon.
 
-  Run `npm i` to install the dependencies.
+## Krav
 
-  Run `npm run dev` to start the development server.
-  
+* Node.js **≥ 18**
+
+## Kom i gang
+
+```bash
+npm install
+npm run dev
+```
+
+Åpne URL-en Vite skriver ut (typisk `http://localhost:5173`).
+
+## Bygg & forhåndsvis
+
+```bash
+npm run build
+npm run preview
+```
+
+## Repository (hvis nytt prosjekt)
+
+```bash
+git init
+git add .
+git commit -m "init"
+git remote add origin git@github.com:<bruker>/<repo>.git
+git push -u origin main
+```
+
+## Skjermbilde (valgfritt)
+
+Legg `docs/screenshot.png` i repoet og referer slik:
+
+```markdown
+![Prototype](docs/screenshot.png)
+```
+
+Lisens: valgfritt (MIT anbefales for skoleprosjekter).
