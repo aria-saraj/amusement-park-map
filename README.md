@@ -1,5 +1,10 @@
 # Tusenfryd Kart – MMI Prototype
 
+### Sjekk ut [Prototypen](https://tusenfryd-map.netlify.app/)!
+
+
+---
+
 Kort README for å starte prototypen lokalt.
 
 ## Om
